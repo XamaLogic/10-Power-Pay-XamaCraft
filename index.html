@@ -1,0 +1,12 @@
+<input id="input" type=text placeholder="Input Password">
+<title>Input password to continue</title>
+<button onclick="submit()">Submit</button>
+<script>
+  function submit(){
+    var pass=fetch("")
+    var input=document.getElementById("input").value
+    if (input == pass){
+      window.location.href += "eaglercraft.html"
+    } else {alert("Wrong Password")}
+  }
+</script>
