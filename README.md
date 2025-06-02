@@ -1,11 +1,9 @@
-<html>
-  <head>
-    <title>XamaCraft 1.666 Browser</title>
-    <style>
-      body {
-        background-color: #1e1e1e; /* Dark background so white text is visible */
-        color: black; /* Default text color */
-        font-family: Arial, sans-serif;
-      }
+<body>
+  <div style="background-color: #ffcc00; color: black; font-size: 36px; font-weight: bold; text-align: center; padding: 20px; margin-bottom: 20px; border: 3px solid black; border-radius: 8px;">
+    NOTICE
+  </div>
 
-  
+  <!-- rest of your content -->
+
+  <h1>This cost 10 PowerPay</h1>
+</body>
